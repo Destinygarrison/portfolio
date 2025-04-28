@@ -2,7 +2,6 @@
 
 ## About Me
 
-![Profile Picture](headshot.jpg)
 
 Hello! I am an experienced Behavioral Health Therapist and Psychology professional with over 5 years of proven expertise in behavioral psychology and mental health counseling.
 
@@ -19,7 +18,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/destiny-garrison-ba377
 **Loyola University Maryland** — Baltimore, MD  
 Bachelor of Science in Psychology (Present)  
 (Expected Graduation: May 2026)  
-GPA: (Insert if you'd like)
+GPA: (3.7)
 
 **Pikesville High School** — Pikesville, MD  
 Graduated with Honors Diploma
@@ -30,7 +29,11 @@ Graduated with Honors Diploma
 
 ## Project 1: Student Organizational Filing System (Outlook)
 
-![Outlook Screenshot](outlook-project.jpg)
+[Outlook Screenshot]
+
+
+
+
 
 This project was based on a prompt to design a better filing system for academic materials.  
 I created an organized structure using Outlook and OneDrive to improve file management across multiple psychology courses.
@@ -46,7 +49,11 @@ If extended, I would automate part of the process using Microsoft Flow.
 
 ## Project 2: Purchasing Decision Spreadsheet (Excel)
 
-![Excel Screenshot](excel-project.jpg)
+[Excel Screenshot]
+
+
+
+
 
 This project compared several tech products to help guide purchasing decisions based on specs, price, and features.  
 I organized the information using Microsoft Excel tables and functions, applying visual formatting to simplify comparisons.
@@ -61,7 +68,11 @@ If expanded, I would include weighted scoring formulas for smarter decision-maki
 
 ## Project 3: Python Grade Calculator (JDoodle)
 
-![JDoodle Screenshot](jdoodle-project.jpg)
+[JDoodle Screenshot]
+
+
+
+
 
 This Python program was designed to calculate a student's weighted average and final letter grade based on user input for quizzes and assessments.
 
@@ -71,6 +82,3 @@ One challenge was ensuring the weights of quizzes and assessments always totaled
 **Summary:**  
 *Developed a Python program that calculates weighted averages and letter grades using JDoodle.*
 
----
-
-# Hosted on GitHub Pages — Theme by Orderedlist
