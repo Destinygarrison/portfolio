@@ -2,7 +2,7 @@
 
 ## About Me
 
-![Profile Picture](headshot.jpg)
+(![Banner Picture](group-banner.jpg)
 
 Hello! I am an experienced Behavioral Health Therapist and Psychology professional with over 5 years of proven expertise in behavioral psychology and mental health counseling.
 
