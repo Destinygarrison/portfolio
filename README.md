@@ -1,7 +1,4 @@
-# Behavioral Health Therapist
-
-
-
+# Destiny Garrison
 
 ## About Me
 
@@ -17,14 +14,15 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/destiny-garrison-ba377
 
 ---
 
-![Banner Picture](group-banner.jpg)
-
----
-
 # Education
 
-**Bachelor of Science in Psychology**  
-Loyola University Maryland
+**Loyola University Maryland** — Baltimore, MD  
+Bachelor of Science in Psychology (Present)  
+(Expected Graduation: May 2026)  
+GPA: (Insert if you'd like)
+
+**Pikesville High School** — Pikesville, MD  
+Graduated with Honors Diploma
 
 ---
 
@@ -34,25 +32,12 @@ Loyola University Maryland
 
 ![Outlook Screenshot](outlook-project.jpg)
 
+This project was based on a prompt to design a better filing system for academic materials.  
+I created an organized structure using Outlook and OneDrive to improve file management across multiple psychology courses.
 
-
-
-
-
-**Initial Project Idea:**  
-I wanted to develop an organized digital filing system to efficiently manage academic files across multiple psychology courses.
-
-**Tools I Used:**  
-Microsoft Outlook, OneDrive.
-
-**Challenges I Faced:**  
-Designing a system that balanced accessibility and organization. I used color-coded folders and clear naming structures.
-
-**Other Resources:**  
-I adapted templates based on Microsoft tutorials and best practices.
-
-**Result:**  
-Created a system that reduced file search time by 40%. Future upgrades may include automation with Power Automate.
+I utilized color-coded folders and naming conventions to save time when searching for files.  
+One obstacle I faced was ensuring that different class projects didn’t overlap. I solved this by creating standardized naming patterns.  
+If extended, I would automate part of the process using Microsoft Flow.
 
 **Summary:**  
 *Designed an academic digital filing system to boost efficiency and reduce lost files.*
@@ -63,23 +48,11 @@ Created a system that reduced file search time by 40%. Future upgrades may inclu
 
 ![Excel Screenshot](excel-project.jpg)
 
+This project compared several tech products to help guide purchasing decisions based on specs, price, and features.  
+I organized the information using Microsoft Excel tables and functions, applying visual formatting to simplify comparisons.
 
-
-
-**Initial Project Idea:**  
-Build a spreadsheet to compare different tech options to inform purchasing decisions.
-
-**Tools I Used:**  
-Microsoft Excel.
-
-**Challenges I Faced:**  
-Organizing large amounts of product data clearly, using formatting, sorting, and hyperlinks.
-
-**Other Resources:**  
-I studied sample procurement spreadsheets for ideas.
-
-**Result:**  
-Clear visual comparisons of specs and prices across products. Would improve by adding formulas for automatic scoring.
+Challenges included deciding which specs mattered most (CPU speed, RAM, screen size).  
+If expanded, I would include weighted scoring formulas for smarter decision-making.
 
 **Summary:**  
 *Built an Excel spreadsheet to compare IT products and support smart purchasing decisions.*
@@ -90,27 +63,14 @@ Clear visual comparisons of specs and prices across products. Would improve by a
 
 ![JDoodle Screenshot](jdoodle-project.jpg)
 
+This Python program was designed to calculate a student's weighted average and final letter grade based on user input for quizzes and assessments.
 
-
-
-
-
-**Initial Project Idea:**  
-Create a program that calculates a student's weighted average and final letter grade.
-
-**Tools I Used:**  
-JDoodle online IDE, Python 3.11.5.
-
-**Challenges I Faced:**  
-Handling input validation and average calculations without errors.
-
-**Other Resources:**  
-Basic Python syntax and JDoodle user forums.
-
-**Result:**  
-Successfully created a working grade calculator that accurately displays results based on user input.
+I used JDoodle's online IDE to write, test, and debug the code.  
+One challenge was ensuring the weights of quizzes and assessments always totaled 100%, and I added user input validation to solve it.
 
 **Summary:**  
 *Developed a Python program that calculates weighted averages and letter grades using JDoodle.*
 
 ---
+
+# Hosted on GitHub Pages — Theme by Orderedlist
