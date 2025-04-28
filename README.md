@@ -1,8 +1,7 @@
 # Destiny Garrison
 
 ## About Me
-
-[(![Banner Picture](group-banner.jpg)](https://github.com/Destinygarrison/portfolio/blob/03843dfe87f9ff2f575a54781fbd1aca7a7c6cfb/3089D7CD-F77E-4DFD-ADD6-DFA98BA46208.jpeg)
+(group-banner.jpg)](https://github.com/Destinygarrison/portfolio/blob/03843dfe87f9ff2f575a54781fbd1aca7a7c6cfb/3089D7CD-F77E-4DFD-ADD6-DFA98BA46208.jpeg)
 
 Hello! I am an experienced Behavioral Health Therapist and Psychology professional with over 5 years of proven expertise in behavioral psychology and mental health counseling.
 
