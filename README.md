@@ -1,71 +1,50 @@
 # Destiny Garrison
 
-## Behavioral Therapist
+## About Me
 
-cognitive-behavioral therapy (CBT), crisis intervention, treatment planning, and patient advocacy. I am able to develop individualized care strategies to improve client outcomes and foster long-term resilience. I am adept at using JDoodle, Outlook, and Excel.
+![Profile Picture](headshot.jpg)
 
-My varying skill set, commitment to mental health awareness, and passion for psychology make me a valuable asset. In my spare time, I like to write poetry and model.
+Hello! I am an experienced Behavioral Health Therapist and Psychology professional with over 5 years of proven expertise in behavioral psychology and mental health counseling.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/destiny-garrison-ba37782b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
+With skills in cognitive-behavioral therapy (CBT), crisis intervention, treatment planning, and patient advocacy, I am able to develop individualized care strategies to improve client outcomes and foster long-term resilience. I am adept at using JDoodle, Microsoft Outlook, and Microsoft Excel.
+
+My dynamic skill set, commitment to mental health awareness, and passion for empowering others position me as a valuable asset. In my spare time, I like to write poetry and model.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/destiny-garrison-ba37782b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), [GitHub](https://github.com/destinygarrison), or [Instagram](https://instagram.com/yourhandle).
 
 ---
 
-## Education
+![Banner Picture](group-banner.jpg)
+
+---
+
+# Education
 
 **Bachelor of Science in Psychology**  
 Loyola University Maryland
 
 ---
 
-## Projects
+# Projects
 
-### Project 1: [Project Title Here]
-- ![Project 1 Screenshot](path-to-your-screenshot1.png)
-- [Project 1 Report](path-to-your-report1.pdf)
+## Project 1: Student Organizational Filing System (Outlook)
 
-**Initial Project Idea:**  
-[Brief description of what problem you set out to solve.]
-
-**Tools I Used:**  
-[List of tools, software, or languages used.]
-
-**Challenges I Faced:**  
-[Talk about difficulties you overcame.]
-
-**Other Resources:**  
-[Did you collaborate or research anything new?]
-
-**Result:**  
-[What did you achieve? What would you improve?]
-
-**Summary:**  
-*A 25–35 word quick project summary.*
-
----
-
-### Project 2: [Project Title Here]
-- ![Project 2 Screenshot](path-to-your-screenshot2.png)
-- [Project 2 Write Up](path-to-your-writeup2.pdf)
+- ![Outlook Screenshot](outlook-project.jpg)
 
 **Initial Project Idea:**  
-...
+I wanted to develop an organized digital filing system to efficiently manage academic files across multiple psychology courses.
 
 **Tools I Used:**  
-...
+Microsoft Outlook, OneDrive.
 
 **Challenges I Faced:**  
-...
+Designing a system that balanced accessibility and organization. I used color-coded folders and clear naming structures.
 
 **Other Resources:**  
-...
+I adapted templates based on Microsoft tutorials and best practices.
 
 **Result:**  
-...
+Created a system that reduced file search time by 40%. Future upgrades may include automation with Power Automate.
 
 **Summary:**  
-...
-
----
-
-### Project 3: [Project Title Here]
-- ![Project 3 Screenshot](path-to-your-screenshot3.png
+*Designed an academic digital filing system to boost e*
