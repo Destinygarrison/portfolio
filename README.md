@@ -16,6 +16,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/destiny-garrison-ba377
 
 ![Banner Picture](group-banner.jpg)
 
+
 ---
 
 # Education
