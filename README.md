@@ -1,5 +1,8 @@
 # Behavioral Health Therapist
 
+
+
+
 ## About Me
 
 ![Profile Picture](headshot.jpg)
@@ -31,6 +34,11 @@ Loyola University Maryland
 
 ![Outlook Screenshot](outlook-project.jpg)
 
+
+
+
+
+
 **Initial Project Idea:**  
 I wanted to develop an organized digital filing system to efficiently manage academic files across multiple psychology courses.
 
@@ -55,6 +63,9 @@ Created a system that reduced file search time by 40%. Future upgrades may inclu
 
 ![Excel Screenshot](excel-project.jpg)
 
+
+
+
 **Initial Project Idea:**  
 Build a spreadsheet to compare different tech options to inform purchasing decisions.
 
@@ -78,6 +89,11 @@ Clear visual comparisons of specs and prices across products. Would improve by a
 ## Project 3: Python Grade Calculator (JDoodle)
 
 ![JDoodle Screenshot](jdoodle-project.jpg)
+
+
+
+
+
 
 **Initial Project Idea:**  
 Create a program that calculates a student's weighted average and final letter grade.
