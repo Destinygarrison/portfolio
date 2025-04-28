@@ -1,7 +1,8 @@
 # Destiny Garrison
 
 ## About Me
-(group-banner.jpg)](https://github.com/Destinygarrison/portfolio/blob/03843dfe87f9ff2f575a54781fbd1aca7a7c6cfb/3089D7CD-F77E-4DFD-ADD6-DFA98BA46208.jpeg)
+
+![Profile Picture](headshot.jpg)
 
 Hello! I am an experienced Behavioral Health Therapist and Psychology professional with over 5 years of proven expertise in behavioral psychology and mental health counseling.
 
@@ -14,7 +15,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/destiny-garrison-ba377
 ---
 
 ![Banner Picture](group-banner.jpg)
-
 
 ---
 
@@ -29,7 +29,7 @@ Loyola University Maryland
 
 ## Project 1: Student Organizational Filing System (Outlook)
 
-- ![Outlook Screenshot](outlook-project.jpg)
+![Outlook Screenshot](outlook-project.jpg)
 
 **Initial Project Idea:**  
 I wanted to develop an organized digital filing system to efficiently manage academic files across multiple psychology courses.
@@ -47,4 +47,54 @@ I adapted templates based on Microsoft tutorials and best practices.
 Created a system that reduced file search time by 40%. Future upgrades may include automation with Power Automate.
 
 **Summary:**  
-*Designed an academic digital filing system to boost e*
+*Designed an academic digital filing system to boost efficiency and reduce lost files.*
+
+---
+
+## Project 2: Purchasing Decision Spreadsheet (Excel)
+
+![Excel Screenshot](excel-project.jpg)
+
+**Initial Project Idea:**  
+Build a spreadsheet to compare different tech options to inform purchasing decisions.
+
+**Tools I Used:**  
+Microsoft Excel.
+
+**Challenges I Faced:**  
+Organizing large amounts of product data clearly, using formatting, sorting, and hyperlinks.
+
+**Other Resources:**  
+I studied sample procurement spreadsheets for ideas.
+
+**Result:**  
+Clear visual comparisons of specs and prices across products. Would improve by adding formulas for automatic scoring.
+
+**Summary:**  
+*Built an Excel spreadsheet to compare IT products and support smart purchasing decisions.*
+
+---
+
+## Project 3: Python Grade Calculator (JDoodle)
+
+![JDoodle Screenshot](jdoodle-project.jpg)
+
+**Initial Project Idea:**  
+Create a program that calculates a student's weighted average and final letter grade.
+
+**Tools I Used:**  
+JDoodle online IDE, Python 3.11.5.
+
+**Challenges I Faced:**  
+Handling input validation and average calculations without errors.
+
+**Other Resources:**  
+Basic Python syntax and JDoodle user forums.
+
+**Result:**  
+Successfully created a working grade calculator that accurately displays results based on user input.
+
+**Summary:**  
+*Developed a Python program that calculates weighted averages and letter grades using JDoodle.*
+
+---
