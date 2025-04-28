@@ -1,4 +1,4 @@
-# Destiny Garrison
+# Behavioral Health Therapist
 
 ## About Me
 
